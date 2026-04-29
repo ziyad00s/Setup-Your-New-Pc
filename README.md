@@ -9,10 +9,6 @@ Gives you all apps that should be on your device when you first setup it + How t
 > 
 - How to activate your windows (8.1, 10 & 11) and microsoft office
     
-    <aside>
-    
-    ![68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png](attachment:fbd316a8-fe33-4d39-9ed1-e8dd2a985470:68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png)
-    
     ## **Microsoft Activation Scripts (MAS)**
     
     Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
