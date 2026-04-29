@@ -1,13 +1,29 @@
 # Setup-Your-New-Pc
 Gives you all apps that should be on your device when you first setup it + How to activate your windows and changes it's Edition completely.
-#                                                      Activition
+# Win-tricks
 
-> Activate your windows by clicking here ——> [**activate**](https://github.com/massgravel/microsoft-activation-scripts)
+---
+
+---
+
+# Activition
+
+> Activate your windows by clicking here ——> [**activate](https://github.com/massgravel/microsoft-activation-scripts)**
 > 
 
-> A video tutorial ——> [click here](https://www.instagram.com/reel/DVKvIEbkQ1t/?igsh=MWZnNHFvN29sbmR0ZA==)
+> [https://massgrave.dev/](https://massgrave.dev/)
+> 
+
+> Windows activation video tutorial ——> [click here](https://www.instagram.com/reel/DVKvIEbkQ1t/?igsh=MWZnNHFvN29sbmR0ZA==)
+> 
+
+> Activate your microsoft office ——> tutorial
 > 
 - How to activate your windows (8.1, 10 & 11) and microsoft office
+    
+    <aside>
+    
+    ![68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png](68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png)
     
     ## **Microsoft Activation Scripts (MAS)**
     
@@ -19,9 +35,9 @@ Gives you all apps that should be on your device when you first setup it + How t
     
     ### **Method 1 - PowerShell ❤️**
     
-    1. Click the **Start Menu**, type `PowerShell`, and open it.
-    2. Copy and paste the code below and press **Enter.**
-        - For **Windows 8.1, 10 and 11**:If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):
+    1. Click the **Start Menu**, type `PowerShell`, and open it.
+    2. Copy and paste the code below and press **Enter.**
+        - For **Windows 8.1, 10 and 11**:If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):
             
             ```
             irm https://get.activated.win | iex
@@ -32,36 +48,33 @@ Gives you all apps that should be on your device when you first setup it + How t
             ```
             
         - **Script not launching? Use the below-listed Method 2.**
-    3. In the menu that appears, type the number corresponding to one of the **Green** options.
+    3. In the menu that appears, type the number corresponding to one of the **Green** options.
     
     ---
     
     ### **Method 2 - Traditional (Windows Vista and later)**
     
     1. Download the script:
-        - [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) (Direct script)
-        - [**MAS_AIO.zip**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip) (If the direct script is blocked by your browser)
-    2. Run the `MAS_AIO.cmd` file.
-    3. In the menu that appears, type the number corresponding to one of the **Green** options.
+        - [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) (Direct script)
+        - [**MAS_AIO.zip**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip) (If the direct script is blocked by your browser)
+    2. Run the `MAS_AIO.cmd` file.
+    3. In the menu that appears, type the number corresponding to one of the **Green** options.
     
     ---
     
     **Tip**
     
-    - Some ISPs/DNS providers block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.
-    - **Having trouble**? Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
+    - Some ISPs/DNS providers block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.
+    - **Having trouble**? Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
     
     **Note**
     
-    - The `irm` command in PowerShell downloads a script from a specified URL, and the `iex` command executes it.
+    - The `irm` command in PowerShell downloads a script from a specified URL, and the `iex` command executes it.
     - Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
     - Be cautious of third parties spreading malware disguised as MAS by altering the URL in the PowerShell command.
     
     </aside>
     
-
-> Activate your microsoft office ——> tutorial
-> 
 
 # Apps must be on every laptop/pc
 
