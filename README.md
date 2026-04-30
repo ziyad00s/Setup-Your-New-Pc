@@ -23,7 +23,6 @@ Gives you all apps that should be on your device when you first setup it + How t
     
     <aside>
     
-    ![68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png](68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67.png)
     
     ## **Microsoft Activation Scripts (MAS)**
     
